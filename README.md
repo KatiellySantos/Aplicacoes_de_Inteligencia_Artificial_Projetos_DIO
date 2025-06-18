@@ -1,20 +1,23 @@
-# Manual Básico Linux
+# 🤖 Aplicações de Inteligência Artificial - Projetos DIO
 
-Ebook criado juntamente com IA esplorando alguns comandos básicos do linux
-para quem deseja aprender sobre esse sistema operacional incrivel.
+Este repositório reúne os projetos desenvolvidos durante minha trajetória nos cursos e desafios de **Inteligência Artificial** da [DIO - Digital Innovation One](https://www.dio.me).
 
-## Ferramentas Utilizadas
+## 📌 Objetivo
 
-LibreOffice Impress (Utilizado para edição e desenvolvimento do Ebook)
-ChatGPT (Ajudou no Tema e na na sugestão de algumas melhorias no conteúdo.)
-Microsoft Copilat (Utilizada para criação da capa do Ebook)
+Consolidar, praticar e demonstrar conhecimentos em IA por meio de projetos práticos, explorando diferentes abordagens como aprendizado supervisionado, NLP, visão computacional e muito mais.
 
-## Sobre o eBook
+## 📂 Projetos
 
-Este eBook foi criado para ajudar iniciantes a entenderem os conceitos básicos do Linux e aprenderem alguns dos comandos mais usados. O objetivo é simplificar o processo de aprendizado para que qualquer pessoa, mesmo sem experiência prévia, consiga se sentir confortável no terminal do Linux.
+| Projeto             | Descrição                                                                                 |
+|---------------------|-------------------------------------------------------------------------------------------|
+| Manual Básico Linux  | eBook simples para iniciantes aprenderem comandos básicos do Linux, com exemplos práticos |
 
-## Como Usar
+<!-- Vá adicionando novos projetos aqui -->
 
-1. Baixe o eBook: Você pode acessar o eBook no formato PDF
-2. Explore os exemplos: O eBook contém exemplos práticos de comandos do Linux, com explicações simples e diretas.
-3. Contribua: Sinta-se à vontade para contribuir com sugestões, melhorias ou novos comandos. Para contribuir, basta fazer um fork do repositório e enviar um pull request!
+## 🧠 Em construção
+
+Este repositório está em constante evolução, com novos projetos sendo incluídos conforme avanço nos estudos e desafios da DIO.
+
+
+
+
